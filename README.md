@@ -6,3 +6,5 @@ IMDB影评小爬虫
 - 存储为excel文档格式
 
 ![dataset](https://github.com/Stan7s/IMDb-Review-Crawler/blob/master/dataset.png)
+
+帮同学写的小工具，希望有帮助XD
